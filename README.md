@@ -9,6 +9,7 @@ This data science course taught at Rice University during the Spring 2022 semest
 ## Course Instructor
 
 Dr. Randy R. Davila
+
 Email: rrd6@rice.edu
 
 ## Repository Description
