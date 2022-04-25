@@ -1,5 +1,4 @@
-# INDE577 Data Science and Machine Learning @ Rice University 2022S
-
+# INDE577 Data Science and Machine Learning
 Writer: Chaoqi Ye
 
 ## Course Description
