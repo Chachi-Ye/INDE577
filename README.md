@@ -21,25 +21,41 @@ The following topics have been covered in class:
 - Data Science Practices:
 
     Python Programming
+
     Jupyter Notebooks
+
     Visual Studio Code
+
     Version Control with Git and Github
+
     Data Visualization  
 
 - Supervised Learning:
+
     Model Building and Error Analysis
+
     Linear Regression
+
     Gradient Descent
+    
     Logistic Regression
+
     Neural Nets
+
     Support Vector Machines
+
     k-Nearest Neighbors
+
     Decision/ Regression Trees
+
     Ensemble Learning
 
 - Unsupervised Learning:
+
     k-Means Clustering
+
     Principle Component Analysis
 
 - Reinforcement Learning:
+
     Tabular versus Deep Learning Methods
